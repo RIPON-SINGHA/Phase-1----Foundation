@@ -8,6 +8,6 @@ This repository will contain my Phase 1 learning:
 - Git & GitHub
 - Structure:
 
-python -> Basics, faundamentals
-Java Script -> Basics, core JS without HTML/CSS
-DSA -> python or java (basics)
+- python -> Basics, faundamentals
+- Java Script -> Basics, core JS without HTML/CSS
+- DSA -> python or java (basics)
