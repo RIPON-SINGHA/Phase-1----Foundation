@@ -44,4 +44,4 @@ def hi(name):
 
 
 main() # and calling the main() function to execute both the main() and hi() function together
-# main() is asking for a input then executing the hi() fucntion which will print the "hello + name" statement.
+# main() is asking for a input then executing the hi() fucntion which will print the "hello + name" statement
