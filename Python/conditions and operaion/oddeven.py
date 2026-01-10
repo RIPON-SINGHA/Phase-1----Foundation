@@ -1,12 +1,12 @@
 # here we will check whether a number is odd or even by using if elid and function
 
 #using if and elif
-# num = int(input("what's your numebr? "))
+num = int(input("what's your numebr? "))
 
-# if(num % 2 == 0):
-#     print(f"your number {num} is Even")
-# else:
-#     print(f"Your number {num} is Odd")
+if(num % 2 == 0):
+    print(f"your number {num} is Even")
+else:
+    print(f"Your number {num} is Odd")
 
 
 
