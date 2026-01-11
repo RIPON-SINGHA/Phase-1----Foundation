@@ -1,30 +1,30 @@
-# # dictionary is a data structure that allows us to store datas as key - value format.
-# # In dictionary we can store data as key value pairs. key is the index of its value in dictionary.
+# dictionary is a data structure that allows us to store datas as key - value format.
+# In dictionary we can store data as key value pairs. key is the index of its value in dictionary.
 
-# names = {
-#     "Ripon" : "Singha",
-#     "Rishav" : "sardar",
-#     "Deep" : "Debnath",
-#     "Rajasmita" : "mitra",
-# }
-# # this is a simple example of dictionarie keys as where there at the right left side as the index for iteration and the values are at the right side
-
-
-# # using loop to print the dictionary keys.
-# for name in names:
-#     print(name)
-# # it will print the keys of that dictionary not the values in it
+names = {
+    "Ripon" : "Singha",
+    "Rishav" : "sardar",
+    "Deep" : "Debnath",
+    "Rajasmita" : "mitra",
+}
+# this is a simple example of dictionarie keys as where there at the right left side as the index for iteration and the values are at the right side
 
 
-# # it will give the values of these keys
-# print(names["Ripon"])
-# print(names["Rishav"])
-# print(names["Rajasmita"])
+# using loop to print the dictionary keys.
+for name in names:
+    print(name)
+# it will print the keys of that dictionary not the values in it
 
 
-# #printing both keys are values using loop
-# for name in names:
-#     print(name, names[name])
+# it will give the values of these keys
+print(names["Ripon"])
+print(names["Rishav"])
+print(names["Rajasmita"])
+
+
+#printing both keys are values using loop
+for name in names:
+    print(name, names[name])
 
 
 
